@@ -1,0 +1,35 @@
+ 
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.packages
+pubspec.lock
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+
+# Build and release related
+/build/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/engine/
+/ios/Flutter/App.framework/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/Flutter.podspec.lock
+/ios/.symlinks/
+/ios/Pods/
+/ios/Runner.xcworkspace/
+/android/.gradle/
+/android/.idea/
+/android/local.properties
+/android/.flutter-plugins
+/android/app/build/
+
+# Exclude flutter_project_2
+COC/
+.idea/
+Insta_login_clone/
+notes/
+tuf/
