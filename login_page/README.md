@@ -1,7 +1,7 @@
 # login_page
 
 This is a replica of the UI of the login page of Instagram with no function just plain UI with the actual logo replaced with the Old logo.
-A new Flutter project.
+
 
 ## Getting Started
 
