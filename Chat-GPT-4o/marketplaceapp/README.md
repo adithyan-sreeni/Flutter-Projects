@@ -1,5 +1,7 @@
 # marketplaceapp
 
+This app was created with the help of Chat GPT - 4o.
+
 A new Flutter project.
 
 ## Getting Started
