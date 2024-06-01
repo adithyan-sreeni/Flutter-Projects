@@ -3,8 +3,6 @@ import 'package:notes_app/model/note_model.dart';
 import 'package:notes_app/screens/create_note.dart';
 import 'package:notes_app/widgets/note_card.dart';
 
-//suiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
