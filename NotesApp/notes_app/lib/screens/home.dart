@@ -3,6 +3,8 @@ import 'package:notes_app/model/note_model.dart';
 import 'package:notes_app/screens/create_note.dart';
 import 'package:notes_app/widgets/note_card.dart';
 
+//suiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
@@ -16,7 +18,6 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
         backgroundColor: const Color.fromARGB(255, 12, 10, 10),
         appBar: AppBar(
           toolbarHeight: 100,
@@ -42,7 +43,11 @@ class _HomeScreenState extends State<HomeScreen> {
         body: ListView.builder(
           itemCount: notes.length,
           itemBuilder: (context, index) {
-            return NoteCard(note: notes[index], index: index, onNoteDeleted: onNoteDeleted,);
+            return NoteCard(
+              note: notes[index],
+              index: index,
+              onNoteDeleted: onNoteDeleted,
+            );
           },
         ),
         floatingActionButton: FloatingActionButton(
