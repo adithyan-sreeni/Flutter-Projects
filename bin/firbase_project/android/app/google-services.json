@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408453139120",
+    "project_id": "emailauth-ac84e",
+    "storage_bucket": "emailauth-ac84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408453139120:android:d99fc70c46ca506a200975",
+        "android_client_info": {
+          "package_name": "com.example.firbase_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAXk-ULoIv5GCZYSU37N_UhjKUrWkv55g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
